@@ -1,0 +1,26 @@
+{
+	"name": "zines",
+	"version": "0.0.1",
+	"description": "printable zines about tech topics",
+	"main": "index.js",
+	"authors": {
+		"name": "Jen Looper",
+		"email": "jen.looper@gmail.com"
+	},
+	"repository": "github.com/jlooper/zines/zines",
+	"scripts": {
+		"dev": "vuepress dev src",
+		"build": "vuepress build src"
+	},
+	"license": "MIT",
+	"devDependencies": {
+		"vuepress": "^1.8.0"
+	},
+	"dependencies": {
+		"@tailwindcss/postcss7-compat": "^2.0.2",
+		"autoprefixer": "^9.8.6",
+		"postcss": "^7.0.35",
+		"tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
+		"vuepress-simple-sidebar": "^1.0.2"
+	}
+}
