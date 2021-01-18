@@ -13,18 +13,16 @@
 import Nav from "@theme/components/Nav.vue";
 import Footer from "@theme/components/Footer.vue";
 import HomeLayout from "@theme/layouts/HomeLayout.vue";
-import BasicLayout from "@theme/layouts/BasicLayout.vue";
+import FeatureLayout from "@theme/layouts/FeatureLayout.vue";
 import ContactLayout from "@theme/layouts/ContactLayout.vue";
-import SideNavLayout from "@theme/layouts/SideNavLayout.vue";
 
 export default {
   components: {
     Nav,
     Footer,
     HomeLayout,
-    BasicLayout,
+    FeatureLayout,
     ContactLayout,
-    SideNavLayout,
   },
   computed: {
     layout() {

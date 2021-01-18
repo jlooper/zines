@@ -1,6 +1,6 @@
 ---
 sidebar: auto
-layout: BasicLayout
+layout: FeatureLayout
 title: Zines
 ---
 

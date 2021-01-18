@@ -25,6 +25,10 @@ module.exports = {
 				link: '/zines/',
 			},
 			{
+				text: 'Folding a Zine',
+				link: '/folding/',
+			},
+			{
 				text: 'Resources',
 				link: '/resources/',
 			},
