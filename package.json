@@ -7,16 +7,14 @@
 		"name": "Jen Looper",
 		"email": "jen.looper@gmail.com"
 	},
-	"repository": "github.com/jlooper/zines/zines",
+	"repository": "github.com/jlooper/zines",
 	"scripts": {
 		"dev": "vuepress dev src",
 		"build": "vuepress build src"
 	},
 	"license": "MIT",
-	"devDependencies": {
-		"vuepress": "^1.8.0"
-	},
 	"dependencies": {
+		"vuepress": "^1.8.0",
 		"@tailwindcss/postcss7-compat": "^2.0.2",
 		"autoprefixer": "^9.8.6",
 		"postcss": "^7.0.35",
