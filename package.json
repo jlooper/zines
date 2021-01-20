@@ -2,7 +2,7 @@
 	"name": "zines",
 	"version": "0.0.1",
 	"description": "printable zines about tech topics",
-	"main": "index.js",
+	"main": "tailwind.config.js",
 	"authors": {
 		"name": "Jen Looper",
 		"email": "jen.looper@gmail.com"
