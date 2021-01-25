@@ -22,7 +22,7 @@ module.exports = {
 		nav: [
 			{
 				text: 'Zines',
-				link: '/zines/',
+				link: '/zines/introduction',
 			},
 			{
 				text: 'Folding a Zine',
@@ -44,7 +44,7 @@ module.exports = {
 					collapsable: false,
 					children: [
 						{ link: 'introduction', title: 'Introduction to Machine Learning' },
-						{ link: 'neuralnetworks', title: 'Neural Networks' },
+						{ link: 'supervisedlearning', title: 'Supervised Learning' },
 					],
 				},
 			],
