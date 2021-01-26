@@ -7,7 +7,7 @@
       <p class="text-2xl font-sans">
         {{ $frontmatter.description }}
       </p>
-      <Content />
+      <p class="pt-3 text-2xl font-sans"><Content /></p>
     </div>
   </div>
 </template>
