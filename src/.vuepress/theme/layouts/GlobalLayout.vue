@@ -15,6 +15,7 @@ import Footer from "@theme/components/Footer.vue";
 import HomeLayout from "@theme/layouts/HomeLayout.vue";
 import FeatureLayout from "@theme/layouts/FeatureLayout.vue";
 import ContactLayout from "@theme/layouts/ContactLayout.vue";
+import BasicLayout from "@theme/layouts/BasicLayout.vue";
 
 export default {
   components: {
@@ -23,6 +24,7 @@ export default {
     HomeLayout,
     FeatureLayout,
     ContactLayout,
+    BasicLayout
   },
   computed: {
     layout() {

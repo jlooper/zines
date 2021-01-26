@@ -1,8 +1,8 @@
 <template>
   <div class="m-10">
-    <h1 class="text-white">Contact Me</h1>
+    <h1 class="text-4xl font-sans">Contact Me</h1>
 
-    <div class="text-xs-center font-sans  text-white" v-if="submitted">
+    <div class="text-center font-sans" v-if="submitted">
       <p>Thank you for your email, I will get back to you as soon as I can.</p>
     </div>
 
@@ -19,7 +19,7 @@
     >
       <div class="flex flex-wrap -mx-3 mt-6 mb-6">
         <div class="w-full md:w-1/2 px-3 mb-6 md:mb-0">
-          <label class="text-white font-sans font-bold mb-2" for="grid-first-name">First Name</label>
+          <label class="font-sans" for="grid-first-name">First Name</label>
           <input
             class="appearance-none block w-full bg-gray-200 text-gray-700 border rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white"
             id="grid-first-name"
@@ -32,7 +32,7 @@
           />
         </div>
         <div class="w-full md:w-1/2 px-3">
-          <label class="text-white font-sans font-bold mb-2" for="grid-last-name">Last Name</label>
+          <label class="font-sans" for="grid-last-name">Last Name</label>
           <input
             class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
             id="grid-last-name"
@@ -47,7 +47,7 @@
       </div>
       <div class="flex flex-wrap -mx-3 mb-6">
         <div class="w-full px-3">
-          <label class="text-white font-sans font-bold mb-2" for="grid-email">Email</label>
+          <label class=" font-sans" for="grid-email">Email</label>
           <input
             class="appearance-none block w-full bg-gray-200 text-gray-700 border border-gray-200 rounded py-3 px-4 mb-3 leading-tight focus:outline-none focus:bg-white focus:border-gray-500"
             id="grid-password"
@@ -62,7 +62,7 @@
       </div>
       <div class="flex flex-wrap -mx-3 mb-2">
         <div class="w-full px-3 mb-6">
-          <label class="text-white font-sans font-bold mb-2" for="grid-message">Message</label>
+          <label class="font-sans" for="grid-message">Message</label>
           <textarea
             cols="50"
             rows="10"
@@ -84,7 +84,7 @@
           <button
             type="submit"
             :disabled="!valid"
-            class="shadow font-sans  bg-purple-500 hover:bg-blue-400 focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded"
+            class="shadow font-sans  bg-gray-500 hover:bg-red-800 focus:shadow-outline focus:outline-none  font-bold py-2 px-4 rounded"
           >Submit</button>
         </div>
       </div>
@@ -134,7 +134,7 @@ export default {
         }),
       })
         .then(() => {
-          alert("Thank you for your email! I will reply as soon as I can.");
+          //alert("Thank you for your email! I will reply as soon as I can.");
         })
         .catch(() => {
           alert("Sorry, there seems to have been an error.");

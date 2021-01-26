@@ -1,0 +1,8 @@
+---
+layout: BasicLayout
+title: How to Fold a Zine
+description: You've printed out your zine; now what? Fold it a few times and cut it as described in the video below, and your printable is now an eight-page zine! Enjoy!
+---
+
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@abigatorart/video/6842025870052445446" data-video-id="6842025870052445446" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@abigatorart" href="https://www.tiktok.com/@abigatorart">@abigatorart</a> <p>One way of folding zines <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp">#fyp</a> <a title="diy" target="_blank" href="https://www.tiktok.com/tag/diy">#diy</a> <a title="zine" target="_blank" href="https://www.tiktok.com/tag/zine">#zine</a> <a title="zines" target="_blank" href="https://www.tiktok.com/tag/zines">#zines</a> <a title="craft" target="_blank" href="https://www.tiktok.com/tag/craft">#craft</a> <a title="art" target="_blank" href="https://www.tiktok.com/tag/art">#art</a> <a title="artist" target="_blank" href="https://www.tiktok.com/tag/artist">#artist</a> <a title="howto" target="_blank" href="https://www.tiktok.com/tag/howto">#howto</a> <a title="comics" target="_blank" href="https://www.tiktok.com/tag/comics">#comics</a> <a title="tutorial" target="_blank" href="https://www.tiktok.com/tag/tutorial">#tutorial</a></p> <a target="_blank" title="♬ original sound - Abigail Ziesemann" href="https://www.tiktok.com/music/original-sound-6842025846333606661">♬ original sound - Abigail Ziesemann</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
