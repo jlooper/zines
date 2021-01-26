@@ -51,10 +51,6 @@
 <script>
 export default {
   name: "HomeLayout",
-  mounted() {
-    let tiktokScript = document.createElement("script");
-    tiktokScript.setAttribute("src", "https://www.tiktok.com/embed.js");
-    document.head.appendChild(tiktokScript);
-  },
+  
 };
 </script>
