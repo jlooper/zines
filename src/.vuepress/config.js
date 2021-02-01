@@ -42,6 +42,7 @@ module.exports = {
 					children: [
 						{ link: 'introduction', title: 'Introduction to Machine Learning' },
 						{ link: 'supervisedlearning', title: 'Supervised Learning' },
+						{ link: 'unsupervisedlearning', title: 'Unsupervised Learning' },
 					],
 				},
 			],
