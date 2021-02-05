@@ -32,7 +32,7 @@
             /></a>
           </div>
           <div
-            class="border-double border-4 rounded-md m-auto w-full h-64 text-center"
+            class="border-double border-4 rounded-md m-auto w-full text-center"
           >
             <a href="/zines/unsupervisedlearning"
               ><img class="h-64" alt="zine 3" src="/images/3.png"
