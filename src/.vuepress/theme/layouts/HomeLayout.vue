@@ -34,7 +34,9 @@
           <div
             class="border-double border-4 rounded-md m-auto w-full h-64 text-center"
           >
-            <p class="text-2xl font-sans">More coming soon!</p>
+            <a href="/zines/unsupervisedlearning"
+              ><img class="h-64" alt="zine 3" src="/images/3.png"
+            /></a>
           </div>
 
           <div
@@ -51,6 +53,5 @@
 <script>
 export default {
   name: "HomeLayout",
-  
 };
 </script>
