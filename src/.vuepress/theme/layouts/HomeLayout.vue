@@ -42,10 +42,24 @@
           <div
             class="border-double border-4 rounded-md m-auto w-full text-center"
           >
-            <a href="/zines/unsupervisedlearning"
+            <a href="/zines/reinforcementlearning"
               ><img class="h-64" alt="zine 4" src="/images/4.png"
             /></a>
           </div>
+          <div
+            class="border-double border-4 rounded-md m-auto w-full text-center"
+          >
+            <a href="/zines/deeplearning"
+              ><img class="h-64" alt="zine 5" src="/images/5.png"
+            /></a>
+          </div>
+          <div
+            class="border-double h-64 border-4 rounded-md m-auto w-full text-center"
+          >
+            <p class="text-2xl font-sans pt-5">More coming soon!</p>
+          </div>
+        </div>
+         
         </div>
       </div>
     </div>
