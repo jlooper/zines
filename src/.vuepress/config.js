@@ -44,6 +44,7 @@ module.exports = {
 						{ link: 'supervisedlearning', title: 'Supervised Learning' },
 						{ link: 'unsupervisedlearning', title: 'Unsupervised Learning' },
 						{ link: 'reinforcementlearning', title: 'Reinforcement Learning' },
+						{ link: 'deeplearning', title: 'Deep Learning' },
 					],
 				},
 			],
