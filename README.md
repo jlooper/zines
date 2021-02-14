@@ -8,7 +8,8 @@ What's a zine? It's a handmade, printable paper that you fold into a small magaz
 
 ## Folding your Zine
 
-[![How to Fold your Printed Zine](publicity/video.png)](https://zines.jenlooper.com/folding/ "Folding your Zine")
+![publicity/video.png](https://zines.jenlooper.com/folding/)
+> Click here to view a vide on how to fold your zine
 
 ## Currently available: 
 
