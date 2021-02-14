@@ -8,10 +8,10 @@ What's a zine? It's a handmade, printable paper that you fold into a small magaz
 
 ## Folding your Zine
 
-[![How to Fold your Printed Zine](video.png)](https://zines.jenlooper.com/folding/ "Folding your Zine")
+[![How to Fold your Printed Zine](publicity/video.png)](https://zines.jenlooper.com/folding/ "Folding your Zine")
 
 ## Currently available: 
 
 1st drop: Introduction to Machine Learning, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Deep Learning.
 
-![drop 1](drop1.png)
+![drop 1](publicity/drop1.png)
