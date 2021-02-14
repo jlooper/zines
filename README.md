@@ -14,4 +14,4 @@ What's a zine? It's a handmade, printable paper that you fold into a small magaz
 
 1st drop: Introduction to Machine Learning, Supervised Learning, Unsupervised Learning, Reinforcement Learning, Deep Learning.
 
-![drop 1](publicity/drop1.png)
+![drop 1](publicity/drop1.jpg)
