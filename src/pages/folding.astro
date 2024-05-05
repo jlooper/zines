@@ -1,0 +1,26 @@
+---
+import DefaultLayout from '../layouts/DefaultLayout.astro'
+---
+
+<DefaultLayout title="Folding Your Zine">
+    <section>
+        <div class="md:flex">
+          <div class="w-full md:w-2/3 lg:w-2/3 sm:w-full px-2">
+            <h1 class="text-4xl font-sans">How to Fold a Zine</h1>
+            
+            <p class="text-2xl font-sans pt-5">
+                You've printed out your zine; now what? Fold it a few times and cut it as described in this video, and your printable is now an eight-page zine! Enjoy!
+            </p>
+           
+          </div>
+          <div class="ml-5">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-3">
+              <div class="border-double border-4 m-auto w-full rounded-md">
+                <video width="320" height="240" controls="controls"><source src="/zines.mov" type="video/mp4"></video>
+              </div>
+              
+          </div>
+        </div>
+  </section>
+  
+</DefaultLayout>

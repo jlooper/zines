@@ -1,0 +1,39 @@
+---
+import Navigation from '../components/Navigation.astro'
+---
+
+<header class="bg-black text-white">
+  <Navigation >
+    <li class="menu-item">
+      <a href="/zines/introduction">Zines</a>
+    </li>
+    <li class="menu-item">
+      <a href="/folding/">Folding a Zine</a>
+    </li>    
+  </Navigation>
+</header>
+
+<style lang="scss" is:global>
+  @use '../assets/scss/base/outline' as *;
+
+  header {
+    .type-icon a {
+      display: block;
+
+      [data-icon] {
+        height: auto;
+        margin-top: -4px;
+
+        path {
+          fill: var(--action-color);
+        }
+      }
+
+      &:hover {
+        [data-icon] path {
+          fill: var(--action-color-state);
+        }
+      }
+    }
+  }
+</style>
